@@ -2,7 +2,7 @@
 
 def FirstFactorial(num):
   if(num < 1 or num > 18):
-    print("İnvalid input")
+    print("Invalid input")
   else:
     i=num - 1
     numb=num
